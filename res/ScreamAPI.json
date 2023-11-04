@@ -11,6 +11,6 @@
   "entitlements": {
     "unlock_all": true,
     "auto_inject": true,
-    "inject": []
+    "inject": [8153b4d2bf5a4a11b9e301201d56a28d,a1688a25dfd147a2a7630bbbb53a3638,c697600155fc44c2919b9470a2945f7e,02e9a85779e6489f82f0e6b43bb7e115,cdb51e4a218e49b1bfb86d4e7f646740,010c6ea48352488cbadf53436826c415,0bdb858d862b4738b9a0a28193868edf,3fa31e3d3a11482e84e6b7f17e9668d1]
   }
 }
